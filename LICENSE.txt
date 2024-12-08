@@ -1,0 +1,19 @@
+Chikn Nuggit License
+
+Do not translate or localize
+
+Copyright © 2020-2024 BuzzFeed, Inc. on behalf of BuzzFeed Animation Lab, the publisher of Chikn Nuggit, all rights reversed.
+
+Permission is hereby granted, free of charge, to any person and fictional characters from anywhere obtaining a copy of this media and its associated documentation, wiki and data files (collectively the "Media and Data Files"), to deal in the Media and Data Files without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Media and Data Files, and to permit persons to whom the Media and Data Files is furnished to do so, subject to the following conditions: 
+
+1. The copyright notice and this permission notice below shall be included in all copies or substantial portions of derivative work from the Media and Data Files.
+    This media include some parts/characters of the series "Chikn Nuggit", which require this notice:
+    Copyright © 2020-2024 BuzzFeed, Inc. on behalf of BuzzFeed Animation Lab, the publisher of Chikn Nuggit, all rights reversed. For more information, see https://chiknnugg.it/licensing or contact Slushi (the character) (head of the legal department) at slushi@buzzfeed.com
+
+2. Except as contained in this notice, neither the name of BuzzFeed, BuzzFeed Animation Lab and its trademarks nor Chikn Nuggit franchise name and the related trademarks (with exception of the character names) shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Media and Data Files without prior written authorization.
+
+BUZZFEED DISCLAMIS ALL WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL BUZZFEED BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE MEDIA AND DATA FILES OR THE USE OR OTHER DEALINGS IN THE MEDIA AND DATA FILES.
+
+END OF LICENSE
+
+For more information, see https://chiknnugg.it/licensing or contact Slushi (the character) (who write this license) at slushi@chiknnuggit.com
